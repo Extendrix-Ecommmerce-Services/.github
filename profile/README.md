@@ -45,12 +45,13 @@ Sicofi es nuestra solución integral para la emisión de factura electrónica, d
 - **Experiencia**: Más de N años en la industria tecnológica.
 - **LinkedIn**: 
 
-
+<!--
 ### Areli 
 
 - **Posición**: 
 - **Experiencia**: Más de N años en la industria tecnológica.
 - **LinkedIn**: 
+-->
 
 <!--
 - **Innovación**: Nos esforzamos por estar a la vanguardia de la tecnología.
