@@ -22,6 +22,36 @@ También ofrecemos productos de infraestructura y soporte, tales como: hosting y
 
 Complementamos nuestros servicios con servicios de alto valor agregado en temas como: gestión de la innovación, gestión de proyectos, formación de equipos de liderazgo, trabajo en equipo y motivación personal.
 
+## Nuestros Servicios
+
+### Hosting
+Ofrecemos soluciones de hosting confiables y seguras para asegurar que tu sitio web o aplicación siempre esté en línea y funcionando de manera óptima. Nuestros servicios incluyen registro de dominios, servidores privados virtuales (VPS) y soporte técnico dedicado para garantizar que tu infraestructura digital esté siempre en las mejores manos.
+
+### Ecommerce
+Desarrollamos tu página web profesional o tienda virtual para tu negocio o empresa, diseñada para ofrecer una experiencia de usuario óptima. Nos especializamos en la creación de soluciones personalizadas que reflejen la identidad y los valores de tu marca. Además, implementamos estrategias de marketing digital integrales para atraer tráfico cualificado, mejorar el posicionamiento en buscadores (SEO), y aumentar la visibilidad y ventas de tus productos o servicios en línea.
+
+### Odoo ERP
+Implementamos y personalizamos soluciones de Odoo ERP para optimizar la gestión de tu negocio. Odoo es una suite de aplicaciones empresariales que incluye CRM, ventas, inventario, contabilidad y mucho más. Te ayudamos a integrar y adaptar estas herramientas a tus necesidades específicas, mejorando la eficiencia y la productividad de tu empresa.
+
+### Sicofi
+Sicofi es nuestra solución integral para la emisión de factura electrónica, diseñada para cumplir con las normativas fiscales y simplificar el proceso de facturación. Con Sicofi, puedes gestionar tus facturas de manera rápida y segura, asegurando la conformidad legal y reduciendo el riesgo de errores. Ofrecemos soporte técnico y actualizaciones regulares para mantener tu sistema al día con los últimos cambios regulatorios.
+
+
+## Nuestro Equipo
+
+### David González
+
+- **Posición**: CEO
+- **Experiencia**: Más de N años en la industria tecnológica.
+- **LinkedIn**: 
+
+
+### Areli 
+
+- **Posición**: 
+- **Experiencia**: Más de N años en la industria tecnológica.
+- **LinkedIn**: 
+
 <!--
 - **Innovación**: Nos esforzamos por estar a la vanguardia de la tecnología.
 - **Calidad**: Nos comprometemos a entregar productos y servicios de la más alta calidad.
