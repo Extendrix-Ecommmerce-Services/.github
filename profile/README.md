@@ -36,7 +36,7 @@ Implementamos y personalizamos soluciones de Odoo ERP para optimizar la gestión
 ### Sicofi
 Sicofi es nuestra solución integral para la emisión de factura electrónica, diseñada para cumplir con las normativas fiscales y simplificar el proceso de facturación. Con Sicofi, puedes gestionar tus facturas de manera rápida y segura, asegurando la conformidad legal y reduciendo el riesgo de errores. Ofrecemos soporte técnico y actualizaciones regulares para mantener tu sistema al día con los últimos cambios regulatorios.
 
-
+<!--
 ## Nuestro Equipo
 
 ### David González
@@ -45,7 +45,7 @@ Sicofi es nuestra solución integral para la emisión de factura electrónica, d
 - **Experiencia**: Más de N años en la industria tecnológica.
 - **LinkedIn**: 
 
-<!--
+
 ### Areli 
 
 - **Posición**: 
